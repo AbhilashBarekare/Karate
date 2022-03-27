@@ -1,0 +1,6 @@
+{
+    "name": "Test1",
+    "job": "leader",
+    "id": "#string",
+    "createdAt": "#ignore"
+  }
